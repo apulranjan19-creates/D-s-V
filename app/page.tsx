@@ -53,7 +53,7 @@ const playfulTexts = [
 
 const photoPlaceholders = [
   "/photos/photo1.jpeg",
-  "/photos/photo2.jpg",
+  "/photos/photo2.jpeg",
   "/photos/photo3.jpeg",
   "/photos/photo4.jpg",
   "/photos/photo8.jpeg",
